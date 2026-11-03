@@ -29,5 +29,4 @@ Lumpur berbiaya 5 (sel biasa 1). BFS dan DFS mengabaikan biaya, sedangkan Dijkst
 - `pathviz/maze.py` — Recursive Backtracking dengan stack eksplisit
 - `pathviz/app.py` — antarmuka pygame
 - `docs/PENJELASAN.md` — penjelasan lengkap algoritma, struktur data, PRD, dan ERD
-- `docs/prd.png` & `docs/erd.png` — gambar diagram PRD dan ERD (dibuat dengan `python docs/generate_diagrams.py`)
 - `tests/` — `python -m unittest discover -s tests -t .`
